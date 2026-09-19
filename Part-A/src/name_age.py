@@ -1,20 +1,43 @@
-"""TODO: Replace with a one-line summary of the program's purpose (<73 chars).
+first name = Charles
+last name = woods
+college = southern New Hampshire University
+age = 49 
+Born= 1977
 
 Input:
-    TODO: Replace with a major input, including its type and source.
-    TODO: Replace with another major input, or delete this TODO line.
-    TODO: Replace with another major input, or delete this TODO line.
+    name = input("Enter first name: ")
+    print("Hello", name)
+    year = input("Enter year: ")
+    print ("Born in 1977", year)
+    age = input("Enter my age: ")
+    print("I am 49", age)
+    college = input("College attending: ")
+    print("I attend Souther New Hampshire University", college)
+    
 
 Process:
-    TODO: Replace with a major processing step.
+    name1 = int(input("Enter a name: "))
+    name2 = int(input("Enter last name: "))
+    total = name1 + name2
+    print(total)
 
 Output:
-    TODO: Replace with a major output, including its type and destination.
+    name = "Charles"
+    print(name)
+    college = "Souther new hampshire university"
+    print(college)
+    age = "49"
+    print(age)
+    year = "1977"
+    print(year)
+    String(str)
+    Integer(int)
 
 Typical usage example:
-    TODO: Replace with the input prompt and original name-input example.
-    TODO: Replace with the input prompt and original age-input example.
-    TODO: Replace with the resulting output from those inputs.
+    name = input("Enter your name: ")
+    age = input("Enter my age: ")
+    Enter your name: Charles
+    Enter my age: 49
 """
 
 # === Imports ===
@@ -29,14 +52,15 @@ def main() -> None:
     """Run the name-age program."""
 
     # Get user input.
-    # TODO: Replace with code to get user's name as a string. See zyBooks 1.3.
-    # TODO: Replace with code to get user's age as an integer. See zyBooks 2.6.
+    Hello, my name is Charles Woods
+    (str) creates strings. any.
 
-    # Calculate user's approximate birth year.
-    # TODO: Replace with code to process data. See zyBooks 1.16 & 1.17.
+    Calculate age when born in 1977
+    Charles + Woods + Southern New Hampshire University + 49
 
-    # Output personalized message with user's name and birth year.
-    # TODO: Replace with code to output formatted results. zyBooks 1.3 & 2.7.
+    print("My name is: ")
+    print("Charles")
+    
 
 
 # === Main Guard ===
@@ -45,5 +69,5 @@ if __name__ == "__main__":
 
 
 # === References ===
-# TODO: Replace with an APA-style reference for a source you used, or delete.
-# TODO: Replace with another APA-style reference, or delete this TODO line.
+
+
