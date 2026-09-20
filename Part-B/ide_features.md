@@ -1,35 +1,40 @@
 # Assignment 2-3 Part B – IDE Features Reflection
+Charles Woods
+IT-140
+09/20/2026
 
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
-
-TODO: Replace with your introduction here.
+When beginning this second week project, I found that it was similar to trying to learn a new language. I found that when writing code, it was important 
+to know where you needed to be and know what you want to say. Once that is established the programmer can work backwards and fill in the missing material.
+I chose three IDE features to discuss are code editor, version control, and auto-indentation tool. When dealing with long codes the auto-indentation tool is a valuable resource when aligning statements if, for, and elif.
 
 ## Feature 1 – TODO: Replace with name of your Feature1
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
 
-TODO: Replace with your Feature 1 paragraph here.
+The feature I selected is code editor. This is important for programmers to correct and change code I found it useful when highlighting certain
+connecting words in the program, such as, print, input, and output. I found that it made writing the code and helped keep me on topic and felt much more organised
+and hade fewer errors. Not any errors, but definitely fewer errors.
 
 ## Feature 2 – TODO: Replace with name of your Feature2
 
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
+> There is a function in Github that if something is deleted or made a mistake previous versions can be found and any work can be viewed. The ability to back
+> up any project is extremely important no matter what field the user is working in. This control also helps the user to stay on task and keeps the project organized.
 
-TODO: Replace with your Feature 2 paragraph here.
+
 
 ## Feature 3 – TODO: Replace with name of your Feature3
 
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
-
-TODO: Replace with your Feature 3 paragraph here.
+The third IDE feature I would like to discuss is the auto-indentation feature. When writing long code with many lines keep all the lines and sub lines in 
+place allows for fewer errors. Also, knowing what line the error is being impacted helps in identifying the source and fixing it.
 
 ## Conclusion
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
 
-TODO: Replace with your conclusion here.
 
-## References
+In summation, my first IDE assignment has been a comedy of errors. It has taken me a very long time to even find the link to the page where my homework is 
+located. I have no confidence that this is even the correct format to save and work. The positive take away from this is that after my work is submitted I will 
+have feedback that addresses these issues. 
 
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
+
+
